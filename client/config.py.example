@@ -1,0 +1,5 @@
+HOSTNAME='127.0.0.1'
+PORT='12341'
+SECURE_PORT='12341'
+NON_SECURE_PORT='12342'
+RESULT_KEY_FILE = "<path-to-private-recipient-key"
