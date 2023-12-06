@@ -30,3 +30,5 @@ venv
 *.pyc
 __pychache__
 config.py
+cache
+data
