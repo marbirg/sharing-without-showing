@@ -10,8 +10,9 @@ More details can be found in the corresponding [README.md](attested_tls/README.m
 
 ## client
 This part contains code for benchmarking functions implemented in the above part.
+In addition to files that generate data for the benchmarking functions 'sum', 'histogram', 'LSF' and 'SVM', there are also files for running the Taxi distrubution simulation.
 
-For more information and instructions on how to build and run, see corresponding [README.mb](client/README.md).
+For more information and instructions on how to build and run, see corresponding [README.md](client/README.md).
 
 
 ## Requirements
