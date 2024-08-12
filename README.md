@@ -1,5 +1,6 @@
 # Sharing without Showing
-This repository contains the prototype showing the concepts presented in the paper 'Sharing without Showing: Securing IoT Data with Trusted Execution Environments'
+This repository contains the prototype showing the concepts presented in the paper 'Sharing without Showing: Secure Cloud Analytics
+with Trusted Execution Environments', published at [IEEE Secure Development Conference 2024](https://secdev.ieee.org/2024/home).
 
 It consists of two main parts:
 
